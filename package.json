@@ -13,6 +13,13 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdziadek/react-native-svg-converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jdziadek/react-native-svg-converter/issues"
+  },
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
